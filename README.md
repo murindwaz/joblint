@@ -117,6 +117,7 @@ The following excellent people helped massively with defining the original lint 
 
 Also, there are plenty of [great contributors][contrib] to the library.
 
+Traduction par Nicolas Lupien et Josée Savage
 
 License
 -------
